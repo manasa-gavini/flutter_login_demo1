@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "103451481621",
+    "firebase_url": "https://barkery1412.firebaseio.com",
+    "project_id": "barkery1412",
+    "storage_bucket": "barkery1412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103451481621:android:253e1da980d40be4",
+        "android_client_info": {
+          "package_name": "com.example.flutterlogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103451481621-qcu1btpbfjgkdv7iov34oj156dcgud5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-0ReFQMjBoE2ellSqBQdbuUL3doM43mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103451481621-qcu1btpbfjgkdv7iov34oj156dcgud5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
